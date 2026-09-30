@@ -1,18 +1,17 @@
-# VPN IP Netherlands — Dr VPN
+# VPN IP Netherlands — Fast, Secure VPN for Netherlands
 
-**VPN IP Netherlands** is a fast, secure and free VPN for Android. Get a **Netherlands IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Netherlands** is a free, open-source, ad-free VPN app for Android, built for users in Netherlands. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Netherlands (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_nl_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-netherlands/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Netherlands IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Netherlands, Netherlands VPN, VPN IP Netherlands, Netherlands IP address, free VPN Netherlands, buy VPN Netherlands, fast VPN Netherlands, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Netherlands, free VPN Netherlands, fast VPN, VPN IP Netherlands, Android VPN, unblock websites Netherlands.</sub>
